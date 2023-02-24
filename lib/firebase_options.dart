@@ -71,13 +71,5 @@ class DefaultFirebaseOptions {
     iosBundleId: 'com.example.testapp',
   );
 
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBgoxm8fYQ-SHfnlzC0C-QiI-3SX0gEt6E',
-    appId: '1:395730239998:ios:441dd105bc6c86e2b300af',
-    messagingSenderId: '395730239998',
-    projectId: 'testapp-229bb',
-    storageBucket: 'testapp-229bb.appspot.com',
-    iosClientId: '395730239998-utj9ko0cthq7dk0s84meu2l7pvk3bak3.apps.googleusercontent.com',
-    iosBundleId: 'com.example.testapp',
   );
 }
